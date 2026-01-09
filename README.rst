@@ -18,7 +18,8 @@ If you are also using data from a specific dataset we host, please also cite
 the original authors of that dataset (visible under 'Info & Download' while viewing that dataset).
 
 If you want us to add a single cell dataset to the website http://cells.ucsc.edu, 
-please contact us at cells@ucsc.edu. We are happy to add any dataset.
+please use our submission page https://cells-submit.gi.ucsc.edu/ or contact us at cells@ucsc.edu. 
+We are happy to add any dataset.
 
 This is a viewer for a static, precomputed layout. If you're looking for an interative layout, where you can 
 move the cells around and run some algorithms interactively, try Chan-Zuckerberg's own cellxgene or Spring.
